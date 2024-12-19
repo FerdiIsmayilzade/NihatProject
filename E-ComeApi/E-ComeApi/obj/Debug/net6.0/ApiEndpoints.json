@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "E_ComeApi.Controllers.Admin.FeatureController",
+    "Method": "GetAll",
+    "RelativePath": "api/admin/Feature/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "E_ComeApi.Controllers.Admin.FeatureController",
+    "Method": "GetById",
+    "RelativePath": "api/admin/Feature/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,2181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\E-Come.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-Come.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\bootstrap-slider.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\bootstrap-slider.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-slider.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\css\\threesixty.css",
+      "PackagePath": "staticwebassets\\css\\threesixty.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\404.png",
+      "PackagePath": "staticwebassets\\img\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\about\\about_1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\about\\about_2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\about\\about_3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\about\\icon1.png",
+      "PackagePath": "staticwebassets\\img\\about\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\about\\icon2.png",
+      "PackagePath": "staticwebassets\\img\\about\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\about\\icon3.png",
+      "PackagePath": "staticwebassets\\img\\about\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\about\\team_1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\about\\team_2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\about\\team_3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\about\\team_4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\b-product1.jpg",
+      "PackagePath": "staticwebassets\\img\\b-product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\b-product2.jpg",
+      "PackagePath": "staticwebassets\\img\\b-product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\b-product3.jpg",
+      "PackagePath": "staticwebassets\\img\\b-product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\b-product4.jpg",
+      "PackagePath": "staticwebassets\\img\\b-product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\b-product5.jpg",
+      "PackagePath": "staticwebassets\\img\\b-product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner-top.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-top.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h1_b1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h1_b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h1_b2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h1_b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h1_b3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h1_b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h1_b4.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h1_b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h1_b5.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h1_b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h1_b6.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h1_b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h1_b7.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h1_b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h2_b1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h2_b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h2_b2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h2_b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h2_b3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h2_b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h2_b4.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h2_b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h2_b5.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h2_b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h3_b1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h3_b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h3_b2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h3_b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h3_b3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h3_b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h4_b1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h4_b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h4_b2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h4_b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h4_b3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h4_b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h4_b4.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h4_b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h4_b5.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h4_b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h4_b6.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h4_b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h5_b1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h5_b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h5_b2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h5_b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h5_b3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h5_b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h5_b4.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h5_b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\banner\\h5_b5.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\h5_b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\ads.png",
+      "PackagePath": "staticwebassets\\img\\blog\\ads.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\author1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\author1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\author2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\author2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\author3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\author3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\author4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\author4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\blog-banner.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\blog-cm-icon.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-cm-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\blog_2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\blog_3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\blog_4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\blog_5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\blog_6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\blog_7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\blog_8.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\blog_9.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\h2_blog1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\h2_blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\h2_blog2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\h2_blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\h2_blog3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\h2_blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\insta_1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\insta_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\insta_2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\insta_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\insta_3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\insta_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\insta_4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\insta_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\insta_5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\insta_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\insta_6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\insta_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\newsletter.png",
+      "PackagePath": "staticwebassets\\img\\blog\\newsletter.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\post1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\post2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\post3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\post4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\quote.png",
+      "PackagePath": "staticwebassets\\img\\blog\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\single-post.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\single-post.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\single-post2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\single-post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\single-post3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\single-post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\blog\\single-post4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\single-post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\brand.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\brand_2.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\brand_3.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\brand_4.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\brand_5.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\brand_7.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\brand_8.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\brandlogo1.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brandlogo1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\brandlogo2.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brandlogo2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\brandlogo3.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brandlogo3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\brandlogo4.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brandlogo4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\brandlogo5.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brandlogo5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\brandlogo6.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brandlogo6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\brand\\sony_info.png",
+      "PackagePath": "staticwebassets\\img\\brand\\sony_info.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\cart-w.png",
+      "PackagePath": "staticwebassets\\img\\cart-w.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\cart1.jpg",
+      "PackagePath": "staticwebassets\\img\\cart1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\category\\1.png",
+      "PackagePath": "staticwebassets\\img\\category\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\category\\2.png",
+      "PackagePath": "staticwebassets\\img\\category\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\category\\3.png",
+      "PackagePath": "staticwebassets\\img\\category\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\category\\4.png",
+      "PackagePath": "staticwebassets\\img\\category\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\category\\5.png",
+      "PackagePath": "staticwebassets\\img\\category\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\category\\6.png",
+      "PackagePath": "staticwebassets\\img\\category\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\checkoutpp.jpg",
+      "PackagePath": "staticwebassets\\img\\checkoutpp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\co-coupon.png",
+      "PackagePath": "staticwebassets\\img\\co-coupon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\co-login.png",
+      "PackagePath": "staticwebassets\\img\\co-login.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\coupon-icon.png",
+      "PackagePath": "staticwebassets\\img\\coupon-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\cs.jpg",
+      "PackagePath": "staticwebassets\\img\\cs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\demo\\demo1.jpg",
+      "PackagePath": "staticwebassets\\img\\demo\\demo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\demo\\demo2.jpg",
+      "PackagePath": "staticwebassets\\img\\demo\\demo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\demo\\demo3.jpg",
+      "PackagePath": "staticwebassets\\img\\demo\\demo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\demo\\demo4.jpg",
+      "PackagePath": "staticwebassets\\img\\demo\\demo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\demo\\demo5.jpg",
+      "PackagePath": "staticwebassets\\img\\demo\\demo5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\demo\\demo6.jpg",
+      "PackagePath": "staticwebassets\\img\\demo\\demo6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\f-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\f-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\f-mail.png",
+      "PackagePath": "staticwebassets\\img\\f-mail.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\f-phone.png",
+      "PackagePath": "staticwebassets\\img\\f-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\f-time.png",
+      "PackagePath": "staticwebassets\\img\\f-time.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\b-tele.png",
+      "PackagePath": "staticwebassets\\img\\feature\\b-tele.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\b_credit.png",
+      "PackagePath": "staticwebassets\\img\\feature\\b_credit.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\b_truck.png",
+      "PackagePath": "staticwebassets\\img\\feature\\b_truck.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\credit-card.png",
+      "PackagePath": "staticwebassets\\img\\feature\\credit-card.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\credit-card2.png",
+      "PackagePath": "staticwebassets\\img\\feature\\credit-card2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\g-credit.png",
+      "PackagePath": "staticwebassets\\img\\feature\\g-credit.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\g-safety.png",
+      "PackagePath": "staticwebassets\\img\\feature\\g-safety.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\g-tele.png",
+      "PackagePath": "staticwebassets\\img\\feature\\g-tele.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\g-truck.png",
+      "PackagePath": "staticwebassets\\img\\feature\\g-truck.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\hotline.png",
+      "PackagePath": "staticwebassets\\img\\feature\\hotline.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\safety.png",
+      "PackagePath": "staticwebassets\\img\\feature\\safety.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\safety2.png",
+      "PackagePath": "staticwebassets\\img\\feature\\safety2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\telephone.png",
+      "PackagePath": "staticwebassets\\img\\feature\\telephone.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\truck.png",
+      "PackagePath": "staticwebassets\\img\\feature\\truck.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\feature\\truck2.png",
+      "PackagePath": "staticwebassets\\img\\feature\\truck2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\flash-deals.png",
+      "PackagePath": "staticwebassets\\img\\flash-deals.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\grid.png",
+      "PackagePath": "staticwebassets\\img\\grid.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\grid2.png",
+      "PackagePath": "staticwebassets\\img\\grid2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\h3-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-call.png",
+      "PackagePath": "staticwebassets\\img\\icon-call.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-cart.png",
+      "PackagePath": "staticwebassets\\img\\icon-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-cart2.png",
+      "PackagePath": "staticwebassets\\img\\icon-cart2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-compare.png",
+      "PackagePath": "staticwebassets\\img\\icon-compare.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-diamond.png",
+      "PackagePath": "staticwebassets\\img\\icon-diamond.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-eye.png",
+      "PackagePath": "staticwebassets\\img\\icon-eye.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-heart.png",
+      "PackagePath": "staticwebassets\\img\\icon-heart.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-heart2.png",
+      "PackagePath": "staticwebassets\\img\\icon-heart2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-l.png",
+      "PackagePath": "staticwebassets\\img\\icon-l.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-map.png",
+      "PackagePath": "staticwebassets\\img\\icon-map.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-phone.png",
+      "PackagePath": "staticwebassets\\img\\icon-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-ship.png",
+      "PackagePath": "staticwebassets\\img\\icon-ship.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-track.png",
+      "PackagePath": "staticwebassets\\img\\icon-track.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon-user.png",
+      "PackagePath": "staticwebassets\\img\\icon-user.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon_1.png",
+      "PackagePath": "staticwebassets\\img\\icon_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon_2.png",
+      "PackagePath": "staticwebassets\\img\\icon_2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon_3.png",
+      "PackagePath": "staticwebassets\\img\\icon_3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon_4.png",
+      "PackagePath": "staticwebassets\\img\\icon_4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon_5.png",
+      "PackagePath": "staticwebassets\\img\\icon_5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon_6.png",
+      "PackagePath": "staticwebassets\\img\\icon_6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\icon_7.png",
+      "PackagePath": "staticwebassets\\img\\icon_7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\iconbrand.png",
+      "PackagePath": "staticwebassets\\img\\iconbrand.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\iconbs.png",
+      "PackagePath": "staticwebassets\\img\\iconbs.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\list.png",
+      "PackagePath": "staticwebassets\\img\\list.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\logo-w.png",
+      "PackagePath": "staticwebassets\\img\\logo-w.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\lookbook_1.jpg",
+      "PackagePath": "staticwebassets\\img\\lookbook_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\lookbook_2.jpg",
+      "PackagePath": "staticwebassets\\img\\lookbook_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\lookbook_3.jpg",
+      "PackagePath": "staticwebassets\\img\\lookbook_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\megamenu\\cate1.jpg",
+      "PackagePath": "staticwebassets\\img\\megamenu\\cate1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\megamenu\\cate2.jpg",
+      "PackagePath": "staticwebassets\\img\\megamenu\\cate2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\megamenu\\cate3.jpg",
+      "PackagePath": "staticwebassets\\img\\megamenu\\cate3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\megamenu\\cate4.jpg",
+      "PackagePath": "staticwebassets\\img\\megamenu\\cate4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\megamenu\\cate5.jpg",
+      "PackagePath": "staticwebassets\\img\\megamenu\\cate5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\megamenu\\cate6.jpg",
+      "PackagePath": "staticwebassets\\img\\megamenu\\cate6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\megamenu\\headphone-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\megamenu\\headphone-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\megamenu\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\megamenu\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\megamenu\\phone-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\megamenu\\phone-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\megamenu\\tv-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\megamenu\\tv-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\o-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\o-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\o-banner2.jpg",
+      "PackagePath": "staticwebassets\\img\\o-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\o-banner3.jpg",
+      "PackagePath": "staticwebassets\\img\\o-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\payment\\american-express.png",
+      "PackagePath": "staticwebassets\\img\\payment\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\payment\\jcb.png",
+      "PackagePath": "staticwebassets\\img\\payment\\jcb.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\payment\\mastercard.png",
+      "PackagePath": "staticwebassets\\img\\payment\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\payment\\paypal.png",
+      "PackagePath": "staticwebassets\\img\\payment\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\payment\\pp.jpg",
+      "PackagePath": "staticwebassets\\img\\payment\\pp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\payment\\visa.png",
+      "PackagePath": "staticwebassets\\img\\payment\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\payment\\western-union.png",
+      "PackagePath": "staticwebassets\\img\\payment\\western-union.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\15.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product-360\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\product-360\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\anker.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\anker.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\flycam.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\flycam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\fujifilm.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\fujifilm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\headphone.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\headphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\headphone2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\headphone2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\headphone3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\headphone3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\headphone4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\headphone4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\headphone5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\headphone5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\ipad.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\ipad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\iphonex.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\iphonex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\logitech.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\logitech.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\macbook.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\macbook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\macbook2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\macbook2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\macbookair.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\macbookair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\pd1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\pd1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\pd2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\pd2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\pd3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\pd3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\pd4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\pd4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\phone1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\phone1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\phone2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\phone2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\phone3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\phone3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\phone4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\phone4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\phone5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\phone5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\phonecase.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\phonecase.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\projector.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\projector.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\ring.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\ring.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\samsung.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\samsung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\samsung2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\samsung2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\samsung3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\samsung3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\samsung4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\samsung4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\samsungbox.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\samsungbox.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\security.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\security.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\smartwatch.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\smartwatch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\snap.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\snap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\sonos.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sonos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\sound.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sound.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\sound2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sound2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\sound3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sound3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\tplink.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\tplink.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\tv.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\tv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\tv2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\tv2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\tv3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\tv3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\ubl.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\ubl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\usb.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\usb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\vivi.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\vivi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\wifi.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\wifi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\xbox.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\xbox.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\product\\xbox2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\xbox2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\real.png",
+      "PackagePath": "staticwebassets\\img\\real.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\s-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\s-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\shop-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\shop-banner_2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-banner_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\shop-banner_3.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-banner_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\apple_brand.png",
+      "PackagePath": "staticwebassets\\img\\single\\apple_brand.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\bass2.png",
+      "PackagePath": "staticwebassets\\img\\single\\bass2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\bass3.png",
+      "PackagePath": "staticwebassets\\img\\single\\bass3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\des_1.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\des_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\des_2.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\des_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\des_2.png",
+      "PackagePath": "staticwebassets\\img\\single\\des_2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\des_3.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\des_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\glass1.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\glass1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\glass2.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\glass2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\glass3.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\glass3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\glass4.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\glass4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\glass5.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\glass5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\iphone_2.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\iphone_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\iphone_3.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\iphone_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\iphone_4.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\iphone_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\iphone_info_1.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\iphone_info_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\iphone_info_2.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\iphone_info_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\nike1.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\nike1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\nike2.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\nike2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\nike3.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\nike3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\nike4.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\nike4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\nike4.png",
+      "PackagePath": "staticwebassets\\img\\single\\nike4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\simple_icon.png",
+      "PackagePath": "staticwebassets\\img\\single\\simple_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\smartwatch1.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\smartwatch1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\smartwatch2.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\smartwatch2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\smartwatch3.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\smartwatch3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\smartwatch4.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\smartwatch4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\sonos1.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\sonos1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\sonos2.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\sonos2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\sonos3.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\sonos3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\sony.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\sony.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\sony2.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\sony2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\sony3.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\sony3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\sony4.jpg",
+      "PackagePath": "staticwebassets\\img\\single\\sony4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\single\\sony_brand.png",
+      "PackagePath": "staticwebassets\\img\\single\\sony_brand.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\slider\\h1_s1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\h1_s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\slider\\h1_s2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\h1_s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\slider\\h1_s3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\h1_s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\slider\\h2_s1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\h2_s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\slider\\h2_s2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\h2_s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\slider\\h2_s3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\h2_s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\slider\\h3_s1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\h3_s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\slider\\h3_s2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\h3_s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\slider\\h3_s3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\h3_s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\slider\\h5_s1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\h5_s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\slider\\h5_s2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\h5_s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\img\\slider\\h5_s3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\h5_s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\js\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\js\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\js\\threesixty.min.js",
+      "PackagePath": "staticwebassets\\js\\threesixty.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\sass\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\_rules.scss",
+      "PackagePath": "staticwebassets\\sass\\_rules.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\_variables.scss",
+      "PackagePath": "staticwebassets\\sass\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap-slider.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_alerts.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_badges.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_button-groups.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_button-groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_component-animations.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_component-animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_glyphicons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_glyphicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_input-groups.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_input-groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_labels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_modals.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_navs.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_normalize.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_normalize.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_pager.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_pager.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_panels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_panels.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_popovers.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_progress-bars.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_progress-bars.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_responsive-embed.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_responsive-embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_responsive-utilities.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_responsive-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_scaffolding.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_scaffolding.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_theme.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_thumbnails.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_thumbnails.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\_wells.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\_wells.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_alerts.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_center-block.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_center-block.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_hide-text.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_hide-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_labels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_opacity.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_opacity.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_panels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_panels.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_progress-bar.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_progress-bar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_reset-filter.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_reset-filter.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_responsive-visibility.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_responsive-visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_tab-focus.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_tab-focus.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_text-overflow.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_text-overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Ecommerce\\_cart.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Ecommerce\\_cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Ecommerce\\_checkout.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Ecommerce\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Ecommerce\\_item-view-templates.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Ecommerce\\_item-view-templates.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Ecommerce\\_newsletter.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Ecommerce\\_newsletter.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Ecommerce\\_single.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Ecommerce\\_single.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Elements\\_404.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Elements\\_404.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Elements\\_about.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Elements\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Elements\\_banner.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Elements\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Elements\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Elements\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Elements\\_contact.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Elements\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Elements\\_icon-progress-bar.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Elements\\_icon-progress-bar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Elements\\_popup.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Elements\\_popup.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Elements\\_slide.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Elements\\_slide.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Layout\\_commingsoon.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Layout\\_commingsoon.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Layout\\_footers.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Layout\\_footers.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Layout\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Layout\\_homepages.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Layout\\_homepages.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Layout\\_page.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Layout\\_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Responsive\\_desktop.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Responsive\\_desktop.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Responsive\\_fullHd.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Responsive\\_fullHd.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Responsive\\_maxDesktop.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Responsive\\_maxDesktop.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Responsive\\_maxmobile.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Responsive\\_maxmobile.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Responsive\\_maxtable.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Responsive\\_maxtable.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Responsive\\_smallMobile.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Responsive\\_smallMobile.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Responsive\\_table.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\Responsive\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Bd.otf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Bd.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-BdIt.otf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-BdIt.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Lt.otf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Lt.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-LtIt.otf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-LtIt.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Md.otf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Md.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-MdIt.otf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-MdIt.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Roman.otf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Roman.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\Helvetica\\fonts.css",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\Helvetica\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\Helvetica\\helvetica-neue-lt-std-45-light.otf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\Helvetica\\helvetica-neue-lt-std-45-light.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\PlayfairDisplay\\fonts.css",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\PlayfairDisplay\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.eot",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.svg",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.woff",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\blanch\\fonts.css",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\blanch\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.eot",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.svg",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.ttf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.woff",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\font-awesome\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\font-awesome\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont78ce.svg",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont78ce.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont78ce.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont78ce.woff",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont78ce.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\simple-line-icon\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\simple-line-icon\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\simple-line-icon\\css\\simple-line-icons.min.css",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\simple-line-icon\\css\\simple-line-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\_ecommerce.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_ecommerce.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\_elements.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\_layout.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\_mixin.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_mixin.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\_reset.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\_responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\_variable.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\components\\_vendor.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_vendor.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\Final-Project\\e-come\\E-Come\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.E-Come.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.E-Come.props",
+      "PackagePath": "build\\E-Come.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Come.props",
+      "PackagePath": "buildMultiTargeting\\E-Come.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.E-Come.props",
+      "PackagePath": "buildTransitive\\E-Come.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
